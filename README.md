@@ -26,4 +26,4 @@ email: mneurock@umn.edu
 Publications relevant to the code: https://doi.org/10.1021/jacs.2c07305
 
 # Acknowledgements
-![NSF Center for Synthetic Organic Electrochemistry] (https://cci.utah.edu/%29)
+NSF Center for Synthetic Organic Electrochemistry (https://cci.utah.edu/)
