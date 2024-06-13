@@ -23,7 +23,7 @@ Advisor: Prof. Matthew Neurock
 email: mneurock@umn.edu
 
 # Citation
-Publications relevant to the code: https://doi.org/10.1021/jacs.2c07305
+Publications relevant to the code: https://doi.org/10.1021/jacs.2c07305, https://doi.org/10.26434/chemrxiv-2024-3149c
 
 # Acknowledgements
 NSF Center for Synthetic Organic Electrochemistry (https://cci.utah.edu/)
